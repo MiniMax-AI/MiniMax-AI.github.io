@@ -23,4 +23,4 @@ Explore our latest innovations and experience:
 
 Contact Us:
 - [model@minimax.io](mailto:model@minimax.io)
-- [WeChat Group](https://github.com/MiniMax-AI/MiniMax-M1/blob/main/figures/wechat-qrcode.jpeg)
+- [WeChat Group](./images/wechat-qrcode.jpeg)
